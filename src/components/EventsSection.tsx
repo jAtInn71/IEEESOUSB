@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 const SAMPLE_EVENTS: Event[] = [
   {
     id: "1",
-    title: "Technical Workshop on AI",
+    title: "Ai Conclave 2.0",
     description: "Learn about the fundamentals of Artificial Intelligence and its applications in today's world.",
     date: "May 15, 2023",
     time: "10:00 AM - 12:00 PM",
